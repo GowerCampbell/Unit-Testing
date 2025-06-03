@@ -1,6 +1,6 @@
 
 ### Key Points
-- My Research suggests unit testing has many good practices to improve my code reliability and its maintainability when running. It seems likely that following structured approaches like AAA (Arrange-Act-Assert) enhances my test clarity and theevidence leans toward keeping tests fast, independent, and focused on single functionalities.  There is some debate on testing implementation details, with experts favoring behavior-focused tests.  
+My Research suggests unit testing has many good practices to improve my code reliability and its maintainability when running. It seems likely that following structured approaches like AAA (Arrange-Act-Assert) enhances my test clarity and theevidence leans toward keeping tests fast, independent, and focused on single functionalities.  There is some debate on testing implementation details, with experts favoring behavior-focused tests.  
 
 ### Introduction to Unit Testing Best Practices
 Unit testing is essential for ensuring individual code components work as expected, catching bugs early, and facilitating maintenance. These practices, particularly in Python, help create reliable and efficient tests for code. Below, we explore key areas to focus on for effective unit testing.
