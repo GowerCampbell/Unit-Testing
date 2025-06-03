@@ -1,4 +1,4 @@
-# Unit Testing in Python: A Comprehensive Learning Module
+# Unit Testing in Python
 
 Welcome to this learning module on unit testing in Python! This repository is designed to take you from beginner to advanced levels, covering essential testing techniques, Test-Driven Development (TDD), and best practices. Whether you're new to testing or looking to deepen your skills, this module provides clear explanations, practical examples, and hands-on exercises to showcase unit testing in Python.
 
